@@ -18,7 +18,7 @@ We are a young app development team based in Germany — specialized in high-qua
 
 - 🔗 Website: [appnify.de](https://appnify.de)  
 - 📬 Email: [info@appnify.de](mailto:info@appnify.de)
-- 📣 [X (formerly Twitter)](https://x.com/AppnifyGbR)
+- 📣 Social Media: [X (formerly Twitter)](https://x.com/AppnifyGbR)
 
 ---
 
