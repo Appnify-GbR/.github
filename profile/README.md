@@ -1,33 +1,33 @@
-# 👋 Willkommen bei Appnify GbR
+# 👋 Welcome to Appnify GbR
 
 _Code it. Tap it. Love it._
 
-Wir sind ein junges App-Entwicklungsteam mit Sitz in Deutschland – spezialisiert auf hochwertige, native Apps für Apple-Plattformen. Unsere Leidenschaft gilt intuitivem Design, reibungsloser Performance und technischer Exzellenz.
+We are a young app development team based in Germany — specialized in high-quality, native applications for Apple platforms. Our passion lies in intuitive design, seamless performance, and technical excellence.
 
 ---
 
-## 🏢 Über uns
+## 🏢 About Us
 
-**Gründungsdatum:** 07. November 2024  
-**Gründer:** Dustin Plewa & Stefan Plewa  
-**Firmensitz:** Friedrich-Engels-Straße 2, 16761 Hennigsdorf, Deutschland
+**Founded:** November 7, 2024  
+**Founders:** Dustin Plewa & Stefan Plewa  
+**Headquarters:** Friedrich-Engels-Straße 2, 16761 Hennigsdorf, Germany
 
 ---
 
-## 🌐 Kontakt
+## 🌐 Contact
 
 - 🔗 Website: [appnify.de](https://appnify.de)  
-- 📬 E-Mail: [info@appnify.de](mailto:info@appnify.de)
+- 📬 Email: [info@appnify.de](mailto:info@appnify.de)
 
 ---
 
-## 🚀 Was wir tun
+## 🚀 What We Do
 
-Wir entwickeln:
+We develop:
 
-- 📱 Native iOS, iPadOS & Mac Apps
-- 💡 Individuelle Apple-zentrierte Lösungen
+- 📱 Native iOS, iPadOS & macOS apps  
+- 💡 Custom Apple-centered solutions
 
 ---
 
-Danke fürs Vorbeischauen! 💙
+Thanks for stopping by! 💙
